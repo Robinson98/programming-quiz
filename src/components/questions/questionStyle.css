@@ -1,0 +1,10 @@
+.answerBtn {
+    cursor: pointer;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.textCursor {
+    cursor: text;
+}
